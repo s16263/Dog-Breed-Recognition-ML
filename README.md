@@ -93,16 +93,6 @@ Model został wytrenowany przy użyciu:
 
 Zadaniem modelu jest klasyfikacja zdjęcia psa do jednej z dostępnych ras.
 
-### Przykładowe metryki
-
-| Metryka   | Wynik |
-| --------- | ----- |
-| Accuracy  | XX %  |
-| Precision | XX %  |
-| Recall    | XX %  |
-
-> Uzupełnij wartości po zakończeniu treningu.
-
 ---
 
 ## 🔄 Pipeline projektu
@@ -174,6 +164,6 @@ streamlit run app.py
 
 ## 👨‍💻 Autorzy
 
-KK
-JK
-DS
+Karolina Księżopolska
+Dominik Stasiewicz
+Jakub Kiedrowicz
