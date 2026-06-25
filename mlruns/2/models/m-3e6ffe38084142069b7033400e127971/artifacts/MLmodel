@@ -1,0 +1,20 @@
+artifact_path: file:///C:/Users/dstas/Desktop/dog_project/mlruns/2/models/m-3e6ffe38084142069b7033400e127971/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.2
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.10.8
+mlflow_version: 3.14.0
+model_id: m-3e6ffe38084142069b7033400e127971
+model_size_bytes: 12864632
+model_uuid: m-3e6ffe38084142069b7033400e127971
+prompts: null
+run_id: 4b172026ba874bd78a2ede9f0fa7b2ae
+utc_time_created: '2026-06-23 22:33:25.261149'
